@@ -1,0 +1,309 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "codes-in-class",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-codes-in-class-Debug-c11edc8e4d9e8d3b826e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "codes-in-class"
+				},
+				{
+					"build" : "codes-in-class/class-1",
+					"jsonFile" : "directory-codes-in-class.class-1-Debug-1404c8fa57d4948088a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "codes-in-class/class-1"
+				},
+				{
+					"build" : "codes-in-class/class-2",
+					"jsonFile" : "directory-codes-in-class.class-2-Debug-0235b3bc8e094bd294df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "codes-in-class/class-2",
+					"targetIndexes" : 
+					[
+						11,
+						12,
+						13
+					]
+				},
+				{
+					"build" : "codes-in-homework",
+					"childIndexes" : 
+					[
+						5,
+						6
+					],
+					"jsonFile" : "directory-codes-in-homework-Debug-b1e58ded9e33bece5b0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "codes-in-homework"
+				},
+				{
+					"build" : "codes-in-homework/HW-1",
+					"jsonFile" : "directory-codes-in-homework.HW-1-Debug-71298f6ca3ed49ad7e71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "codes-in-homework/HW-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "codes-in-homework/HW-2",
+					"jsonFile" : "directory-codes-in-homework.HW-2-Debug-87e36d47a816bd223bb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "codes-in-homework/HW-2",
+					"targetIndexes" : 
+					[
+						4,
+						9,
+						10,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "2022-CPL-codes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "ASCII::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-ASCII-Debug-41e930f12aa01713bf21.json",
+					"name" : "ASCII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Equation::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Equation-Debug-a414a4bfb66eb0957927.json",
+					"name" : "Equation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Gravity::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Gravity-Debug-ffd5344f926fe05c5197.json",
+					"name" : "Gravity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Inverse::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Inverse-Debug-1d475f4ce1ba2d23be95.json",
+					"name" : "Inverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Inverse2::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-Inverse2-Debug-df86853b42a752b481ae.json",
+					"name" : "Inverse2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Julian::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Julian-Debug-9f84b084911da9f7a164.json",
+					"name" : "Julian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Pi::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Pi-Debug-964c8999d3b2abf78c03.json",
+					"name" : "Pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Time::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-Time-Debug-27f24afc22e518b8d26c.json",
+					"name" : "Time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "change::@f87dbdc3353b216707e2",
+					"jsonFile" : "target-change-Debug-6886ada9de85b0586cec.json",
+					"name" : "change",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "collatz::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-collatz-Debug-b797343521fa2ab51533.json",
+					"name" : "collatz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "factorial::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-factorial-Debug-3a450b681cfbaae6c7c9.json",
+					"name" : "factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "leap-year::@0a89bb536ff1badecdf0",
+					"jsonFile" : "target-leap-year-Debug-ef92784690b3bff20970.json",
+					"name" : "leap-year",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "min::@0a89bb536ff1badecdf0",
+					"jsonFile" : "target-min-Debug-f46076ed38aa46833023.json",
+					"name" : "min",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "min-of-set::@0a89bb536ff1badecdf0",
+					"jsonFile" : "target-min-of-set-Debug-9c4b5f23f1e2442b554f.json",
+					"name" : "min-of-set",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "obstacle::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-obstacle-Debug-8558f1719bb355282dff.json",
+					"name" : "obstacle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "series::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-series-Debug-33e17b661c44cdfec14a.json",
+					"name" : "series",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "single::@a71888e698d7b74e1c4b",
+					"jsonFile" : "target-single-Debug-36681b6cc6ab30ae5c64.json",
+					"name" : "single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-046a36cb922981537414.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/codes/2022-CPL-codes/cmake-build-debug",
+		"source" : "D:/codes/2022-CPL-codes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
